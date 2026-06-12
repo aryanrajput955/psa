@@ -73,19 +73,19 @@ const PROGRAMS = [
     title: "Grassroots Curriculum",
     desc: "For young beginners entering the sport. Focused on grip foundations, hand-eye reflexes, coordinate drills, and basic physical fitness.",
     tag: "Under-12",
-    img: "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?auto=format&fit=crop&w=600&q=80"
+    img: "https://res.cloudinary.com/dhlvq35cc/image/upload/v1781292612/nets_dhys4e.jpg"
   },
   {
     title: "Development Curriculum",
     desc: "For middle-tier players with tournament potential. Features intensive turf net practice, specific bowling lengths, and basic match play.",
     tag: "Under-16",
-    img: "https://images.unsplash.com/photo-1531415080290-bc98545ab3ef?auto=format&fit=crop&w=600&q=80"
+    img: "https://res.cloudinary.com/dhlvq35cc/image/upload/v1781263382/s21_hnc5bw.jpg"
   },
   {
     title: "Elite Championship Prep",
     desc: "Tournament-grade training for state aspirants. Features video frame analysis, bowling machine training, and advanced strength drills.",
     tag: "Under-23 / Open",
-    img: "https://images.unsplash.com/photo-1540747737956-3787293a9fc1?auto=format&fit=crop&w=600&q=80"
+    img: "https://res.cloudinary.com/dhlvq35cc/image/upload/v1781263378/s18_j2pbad.jpg"
   },
 ];
 

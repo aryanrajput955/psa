@@ -105,3 +105,9 @@ html.lenis body {
   pointer-events: none;
 }
 
+/* Cursor pointer for buttons */
+button {
+  cursor: pointer;
+}
+
+
